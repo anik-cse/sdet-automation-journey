@@ -1,6 +1,6 @@
 // File Name: FruitShopArithmeticAssignment.java
 // Topic: Arithmetic Operators – Real Case Assignment (Fruits)
-
+package class2;
 public class FruitShopArithmeticAssignment {
     public static void main(String[] args) {
 

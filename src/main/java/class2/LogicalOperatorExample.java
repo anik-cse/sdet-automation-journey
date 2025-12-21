@@ -1,5 +1,6 @@
 // File Name: LogicalOperatorExample.java
 // Topic: Logical Operators in Java
+package class2;
 public class LogicalOperatorExample {
 
     public static void main(String[] args) {

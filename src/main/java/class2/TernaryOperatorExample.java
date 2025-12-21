@@ -1,5 +1,6 @@
 // File Name: TernaryOperatorExample.java
 // Topic: Ternary Operator in Java
+package class2;
 public class TernaryOperatorExample {
 
     public static void main(String[] args) {

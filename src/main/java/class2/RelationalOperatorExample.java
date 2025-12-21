@@ -1,5 +1,6 @@
 // File Name: RelationalOperatorExample.java
 // Topic: Relational Operators in Java
+package class2;
 public class RelationalOperatorExample {
 
     public static void main(String[] args) {
