@@ -1,6 +1,5 @@
 // File Name: TernaryMinMaxGradingExample.java
 // Topic: Ternary Operator – Min, Max and Grading System
-
 public class TernaryMinMaxGradingExample {
 
     public static void main(String[] args) {
