@@ -1,6 +1,6 @@
 // File Name: AssignmentOperatorExample.java
 // Topic: Assignment Operators in Java
-
+package class2;
 public class AssignmentOperatorExample {
 
     public static void main(String[] args) {

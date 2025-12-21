@@ -1,6 +1,6 @@
 // File: UnaryOperatorSolved.java
 // Topic: Unary Operators (Pre & Post)
-
+package class2;
 public class UnaryOperatorExample {
 
     public static void main(String[] args) {
