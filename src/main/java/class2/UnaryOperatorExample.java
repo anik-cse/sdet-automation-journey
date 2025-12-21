@@ -1,5 +1,3 @@
-package class2;
-
 // File: UnaryOperatorSolved.java
 // Topic: Unary Operators (Pre & Post)
 

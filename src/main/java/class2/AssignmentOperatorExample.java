@@ -1,5 +1,3 @@
-package class2;
-
 // File Name: AssignmentOperatorExample.java
 // Topic: Assignment Operators in Java
 
