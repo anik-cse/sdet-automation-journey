@@ -15,4 +15,6 @@ Java, Selenium, Appium, Rest Assured, TestNG, Gradle, Jenkins, Git, JMeter, OWAS
 
 ## Progress
 - Class 01: Setup + basics
-- Class 02: ...
+- Class 02: ArithmeticOperator, UnaryOperator, RelationalOperator, LogicalOperator, AssignmentOperator, and TernaryOperator
+- Class 03: ...
+
